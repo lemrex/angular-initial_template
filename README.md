@@ -1,4 +1,4 @@
-# AngularAsideWireframe
+# Angular Initial Template
 
 [![Generic badge](https://img.shields.io/badge/UNDER-CONSTRUCTION-yellow.svg)](https://shields.io/)
 
