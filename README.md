@@ -1,6 +1,18 @@
 # AngularAsideWireframe
 
+[![Generic badge](https://img.shields.io/badge/UNDER-CONSTRUCTION-yellow.svg)](https://shields.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
+
+## This template contains (WIP)
+
+- [x] Using Standalone Components
+- [x] Using scss style sheet.
+- [x] SideNav with Collapsed/Expanded animation
+- [ ] Lazy Load Modules. 
+- [ ] Added route view animation
+- [ ] Switch template light or dark. 
+- [ ] Breadcrumbs navigator. 
 
 ## Development server
 
