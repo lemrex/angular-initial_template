@@ -6,14 +6,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## This template contains (WIP)
 
-- [x] Using Standalone Components
-- [x] Using scss style sheet.
+- [x] Using standalone components
+- [x] Using scss stylesheet.
 - [x] Added route view animation
-- [x] Lazy loading routing. 
-- [x] Page 404
-- [x] SideNav with Collapsed/Expanded animation
-- [ ] Switch template light or dark. 
-- [ ] Breadcrumbs navigator. 
+- [x] Added lazy loading routing.
+- [x] Configured ESLint and Prettier
+- [x] SideNav with collapse/expand animation
+- [x] Page not found (404) handling
+- [ ] Global error handling
+- [ ] Toggle between light/dark templates.
+- [ ] Breadcrumb navigator.
+- [ ] Sentry.io integration for error analysis
 
 <div align="center">
 
