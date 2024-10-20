@@ -8,11 +8,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - [x] Using Standalone Components
 - [x] Using scss style sheet.
+- [x] Added route view animation
+- [x] Lazy loading routing. 
+- [x] Page 404
 - [x] SideNav with Collapsed/Expanded animation
-- [ ] Lazy Load Modules. 
-- [ ] Added route view animation
 - [ ] Switch template light or dark. 
 - [ ] Breadcrumbs navigator. 
+
+<div align="center">
+
+<img src="./_screenshots/screen.png" width="640"/>
+<img src="./_screenshots/screen.gif" width="640"/>
+
+</div>
 
 ## Development server
 

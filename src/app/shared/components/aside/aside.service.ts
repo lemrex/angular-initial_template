@@ -28,7 +28,7 @@ export class AsideService {
 	}
 
 	public sizeScreen() {
-		if (this.localExpanded && this.expanded()) {
+		if (!this.localExpanded && !this.expanded()) {
 			return;
 		}
 

@@ -20,7 +20,7 @@ export class AppComponent implements OnInit {
 	constructor(private asideService: AsideService) {}
 
 	@HostListener('window:resize')
-	private onResize() {
+	onResize() {
 		this.asideService.sizeScreen();
 	}
 

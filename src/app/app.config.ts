@@ -8,8 +8,8 @@ import { ROUTES } from './app.routes';
 //** Angular Animations: https://angular.dev/guide/animations/route-animations */
 export const appConfig: ApplicationConfig = {
 	providers: [
-		provideZoneChangeDetection({ eventCoalescing: true }),
 		provideRouter(ROUTES, withViewTransitions()),
+		provideZoneChangeDetection({ eventCoalescing: true }),
 		provideClientHydration(),
 	],
 };
